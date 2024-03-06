@@ -54,7 +54,7 @@ class UnispiderSpider(scrapy.Spider):
         item = response.meta['item']
         item['course_name'] = re.sub(r'\n', '', course_name)
 
-        #Course details 6 pair information (Study mode, Length, Distance learning, Placement year, Year abroad
+        #Course details 5/6 pair information (Study mode, Length, Distance learning, Placement year, Year abroad..)
 
 
         for div in response.xpath('//div[@class="d-block d-md-none w-100"]/div/div/div'):
