@@ -8,7 +8,7 @@ simple scrapy project using python Scrapy to scrape university course informatio
 
 # Built With
 - <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-- <p align="left"> <a href="https://github.com/scrapy/scrapy" target="_blank" rel="noreferrer"> <img src="https://repository-images.githubusercontent.com/529502/dab2bd00-0ed2-11eb-8588-5e10679ace4d" alt="Scrapy" width="40" height="40"/> </a> </p>
+- <p align="left"> <a href="https://github.com/scrapy/scrapy" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/de54ffbef2c6d880ea66ce4b89cbbf21385b4f0c9318907a4f51110272aa9925/68747470733a2f2f7363726170792e6f72672f696d672f7363726170796c6f676f2e706e67" alt="Scrapy"/> </a> </p>
 
 
 # Getting Started
