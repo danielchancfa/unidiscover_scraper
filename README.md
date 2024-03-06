@@ -1,7 +1,7 @@
 
 # unidiscover_scraper
 # About the Project
-simple scrapy project using python Scrapy to scrape university course information in [unidiscover](https://discoveruni.gov.uk/) including but not limited to:
+simple scrapy project using python Scrapy for [unidiscover](https://discoveruni.gov.uk/) to scrape university course information including but not limited to:
   1. course description
   2. salary
   3. employment
