@@ -24,8 +24,14 @@ pip install scrapy
 ```
 ## Usage
 ```
-scrapy crawl unispider
+scrapy crawl unispider -o course_data_40page.json
 ```
+
+- output raw data as to course_data_40page.json as json file
+- convert the json file into csv tabular format in convert json to csv.ipynb
+
+
+
 ## To-do
 - define output as items
 - connect to a DB
