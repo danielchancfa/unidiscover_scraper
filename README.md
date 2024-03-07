@@ -45,7 +45,7 @@ scrapy crawl unispider -o course_data_40page.json
 
 
 
-## To-do
-- define output as items
-- connect to a DB
+## Road map
+- [ ] define output as items in items.py
+- [ ] connect to a DB
 
